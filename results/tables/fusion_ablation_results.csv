@@ -1,0 +1,4 @@
+Combination,ROC-AUC,Accuracy,Subjects
+Speech only,0.991,0.8615,130
+Gait only,0.9731,0.897,165
+Handwriting only,0.9326,0.8529,204

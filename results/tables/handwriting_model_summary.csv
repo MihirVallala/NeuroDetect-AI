@@ -1,0 +1,6 @@
+Metric,Value
+Test Accuracy,0.8167
+Test ROC-AUC (best),0.8844
+Test F1 Score,0.8308
+Total Epochs,30
+Architecture,EfficientNetB0 (Transfer Learning)

@@ -1,0 +1,9 @@
+drawing_type,split,label_name,count
+spiral,testing,HC,15
+spiral,testing,PD,15
+spiral,training,HC,36
+spiral,training,PD,36
+wave,testing,HC,15
+wave,testing,PD,15
+wave,training,HC,36
+wave,training,PD,36

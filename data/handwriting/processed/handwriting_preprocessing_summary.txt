@@ -1,0 +1,35 @@
+================================================================================
+HANDWRITING DATA PREPROCESSING SUMMARY
+================================================================================
+
+Input directory: data/handwriting/raw
+Output directory: data/handwriting/processed
+
+Image size: (224, 224)
+Drawing types: ['spiral', 'wave']
+
+Dataset Statistics:
+  Training images: 144
+    Healthy (HC): 72
+    PD:           72
+
+  Testing images:  60
+    Healthy (HC): 30
+    PD:           30
+
+  Total images:    204
+
+Normalization:
+  Pixel values normalized to [0, 1]
+  Additional augmentation applied during training
+
+Files saved:
+  X_train.npy  - Training images
+  y_train.npy  - Training labels
+  X_test.npy   - Testing images
+  y_test.npy   - Testing labels
+  handwriting_metadata.csv
+  dataset_breakdown.csv
+
+================================================================================
+Preprocessing completed successfully!

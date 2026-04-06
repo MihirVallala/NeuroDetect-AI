@@ -1,0 +1,6 @@
+Metric,Value
+CV Accuracy (mean),0.5538
+CV Accuracy (std),0.0792
+CV F1 Macro (mean),0.4494
+CV F1 Macro (std),0.0666
+ROC-AUC (macro OvR),0.4494

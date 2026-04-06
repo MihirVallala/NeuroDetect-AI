@@ -1,0 +1,5 @@
+Model,Task,ROC-AUC,Subjects,Architecture,Fusion Weight
+Speech (3-class),HC vs RBD vs PD,0.9802,130,Ensemble (RF+XGB+SVM+LR),45%
+Gait (binary),HC vs PD,0.794,165,Ensemble (RF+XGB+SVM+LR),25%
+Handwriting (binary),HC vs PD,0.8844,204,EfficientNetB0,30%
+Multimodal Fusion,HC vs RBD vs PD,0.90+ (expected),459 total,Weighted Late Fusion,-

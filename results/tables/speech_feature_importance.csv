@@ -1,0 +1,25 @@
+feature,importance,display_name
+monologue_Rate of speech timing (-/min),0.0970338372661089,M: Rate of speech timing (-/min)
+monologue_Duration of pause intervals (ms),0.08556331203031313,M: Duration of pause intervals (ms)
+reading_Duration of pause intervals (ms),0.0632855350997812,R: Duration of pause intervals (ms)
+monologue_Acceleration of speech timing (-/min2),0.055012964563106864,M: Acceleration of speech timing (-/min2)
+reading_Relative loudness of respiration (dB),0.04889911988038338,R: Relative loudness of respiration (dB)
+reading_Rate of speech timing (-/min),0.04881187495529664,R: Rate of speech timing (-/min)
+reading_Duration of voiced intervals (ms),0.0438621571622588,R: Duration of voiced intervals (ms)
+reading_Duration of unvoiced stops (ms),0.04351025244856054,R: Duration of unvoiced stops (ms)
+reading_Acceleration of speech timing                                (-/min2),0.042848921513680596,R: Acceleration of speech timing             
+reading_Entropy of speech timing (-),0.04210990621642979,R: Entropy of speech timing (-)
+monologue_Relative loudness of respiration (dB),0.04120025215668813,M: Relative loudness of respiration (dB)
+monologue_Decay of unvoiced fricatives              (?/min),0.0387776546012538,M: Decay of unvoiced fricatives              
+reading_Latency of respiratory exchange (ms),0.038434458347706806,R: Latency of respiratory exchange (ms)
+monologue_Duration of voiced intervals (ms),0.037511929792064184,M: Duration of voiced intervals (ms)
+monologue_Gaping                         in-between voiced intervals                   (-/min),0.03447742790116715,M: Gaping                         in-between 
+reading_Gaping                          in-between voiced intervals  (-/min),0.03379103099968889,R: Gaping                          in-between
+reading_Rate of speech respiration                (-/min),0.03257999838343532,R: Rate of speech respiration                
+monologue_Rate of speech respiration           (- /min),0.03083191693796696,M: Rate of speech respiration           (- /m
+monologue_Latency of respiratory exchange (ms),0.027656164315449684,M: Latency of respiratory exchange (ms)
+reading_Decay of unvoiced fricatives              (promile/min),0.02669523090004214,R: Decay of unvoiced fricatives              
+monologue_Duration of unvoiced stops (ms),0.026548388700417255,M: Duration of unvoiced stops (ms)
+monologue_Entropy of speech timing (-),0.021826583886768364,M: Entropy of speech timing (-)
+monologue_Pause intervals per respiration (-),0.019650211167103804,M: Pause intervals per respiration (-)
+reading_Pause intervals per respiration (-),0.0190808707743276,R: Pause intervals per respiration (-)

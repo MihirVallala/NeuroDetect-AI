@@ -1,0 +1,27 @@
+================================================================================
+SPEECH DATA PREPROCESSING SUMMARY
+================================================================================
+
+Input file: data/speech/raw/dataset.csv
+Output directory: data/speech/processed
+
+Total subjects: 130
+Total features: 24
+
+Class distribution:
+  0 - HC (Healthy): 50 (38.5%)
+  1 - RBD (At Risk): 50 (38.5%)
+  2 - PD (Parkinson's): 30 (23.1%)
+
+Missing values handled: No
+Normalization applied: Yes
+
+Feature statistics (raw data):
+  Min: -30.4800
+  Max: 800.0000
+  Mean: 86.3552
+  Std: 122.0202
+
+================================================================================
+Preprocessing completed successfully!
+================================================================================
