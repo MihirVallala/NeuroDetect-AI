@@ -234,7 +234,7 @@ If you use this work, please cite:
 ```bibtex
 @inproceedings{vallala2026neurodetect,
   title     = {NeuroDetect AI: A Multimodal Framework for Parkinson's Disease and RBD Screening},
-  author    = {Vallala, Mihir and Debnath, Diptanu},
+  author    = {Mihir Vallala and Diptanu Debnath},
   booktitle = {Proceedings of the IEEE},
   year      = {2026},
   note      = {SRM University, Chennai, India}
