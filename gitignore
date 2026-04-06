@@ -1,0 +1,58 @@
+# ── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+# ── Jupyter ───────────────────────────────────────────────
+.ipynb_checkpoints
+*.ipynb
+
+# ── Model files (too large for GitHub) ───────────────────
+models/saved/*.pkl
+models/saved/*.pth
+models/saved/*.json
+
+# ── Data (do not commit raw/processed data) ──────────────
+data/speech/raw/
+data/speech/processed/
+data/gait/raw/
+data/gait/processed/
+data/handwriting/raw/
+data/handwriting/processed/
+
+# ── Results (auto-generated) ──────────────────────────────
+results/figures/
+results/tables/
+
+# ── Node / Frontend ───────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+
+# ── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Logs ─────────────────────────────────────────────────
+*.log
+logs/
